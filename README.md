@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**unajmieh/unajmieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--  
+<p></p>
+<div align="center">  
+    <a href="https://your-google-scholar-url" style="display: inline-block;">  
+        <img src="https://img.icons8.com/?size=50&id=drPiDBy9kkJ3&format=png&color=000000" alt="Google Scholar" width="50" />  
+    </a>  
+    <a href="https://huggingface.co/" style="display: inline-block;">  
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50" />  
+    </a>  
+    <a href="https://your-hashnode-url" style="display: inline-block;">  
+        <img src="https://img.icons8.com/?size=50&id=HnB8zGOh5xgd&format=png&color=000000" alt="Hashnode" width="50" />  
+    </a>  
+</div>  
 -->
+
+
+
+
+
