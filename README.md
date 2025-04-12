@@ -3,6 +3,8 @@
 👨‍💻 Focused on solving problems with clean and practical solutions.  
 🌱 Continuously learning and sharing my journey through projects, code, papers and blog posts.
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--  
 <p></p>
